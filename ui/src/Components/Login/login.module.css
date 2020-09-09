@@ -1,0 +1,43 @@
+.container {
+  position: absolute;
+  top: 16%;
+  left: 24%;
+  padding: 20px;
+}
+.userInput {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+.invalidLoginMsg {
+  color: Red;
+}
+.googleBtn {
+  margin: 10px 0;
+}
+.mainLabel {
+  position: absolute;
+  left: 35%;
+  top: 12%;
+  font-size: 24px;
+}
+.highlighter{
+  color:red 
+}

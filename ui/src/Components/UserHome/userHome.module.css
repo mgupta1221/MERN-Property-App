@@ -1,0 +1,60 @@
+.container {
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  padding: 20px;
+}
+.userInput {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+.invalidLoginMsg {
+  color: Red;
+}
+.copyRight {
+  position: absolute;
+  bottom: 5%;
+  margin: 10px;
+}
+.buyBox {
+  background-image: url("../../Assets/Images/buyHome.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.sellBox {
+  background-image: url("../../Assets/Images/sellHome.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.myPropertiesBox {
+  background-image: url("../../Assets/Images/myProp.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* color:white; */
+}
+.working {
+  font-size: 18px;
+  color: lightgreen;
+  
+}

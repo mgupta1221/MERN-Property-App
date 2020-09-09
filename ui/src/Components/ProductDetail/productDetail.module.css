@@ -1,0 +1,22 @@
+.priceTitle {
+  font-size: 22px;
+  color: #6c757d !important;
+}
+.price {
+  font-size: 17px;
+  color: #000 !important;
+  margin-left: 10px;
+}
+.copyRight {
+  position: absolute;
+  bottom: 5%;
+  margin: 10px;
+}
+.propertyPane {
+  text-align: center;
+}
+img {
+  width: 360px;
+  height: 258px;
+  margin: 0 auto;
+}
